@@ -10,8 +10,8 @@
 :root{
   --safe-top:env(safe-area-inset-top, 0px);
   --safe-bottom:env(safe-area-inset-bottom, 0px);
-  --app-max:500px;
-  --nav-max:500px;
+  --app-max:560px;
+  --nav-max:540px;
   --wash:radial-gradient(520px 260px at 0% -4%, rgba(79,91,255,.11), transparent 62%), radial-gradient(420px 240px at 100% 6%, rgba(20,200,160,.09), transparent 62%);
   /* surfaces — --bg must stay #F4F6FB (Telegram header/background colour set in app.js) */
   --bg:#F4F6FB;
